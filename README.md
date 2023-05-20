@@ -1,5 +1,6 @@
-## frontend:
-# cmd:
+# frontend:
+## cmd:
+```
 npm install -g npx
 npm create vite@latest
 npm install
@@ -11,27 +12,28 @@ npm i -D eslint eslint-config-react-app
 npm i -D @types/node
 npm run dev
 npm i recharts
-
-## extentsions:
-# vs-code:
+```
+# extentsions:
+## vs-code:
 eslint
 ES7 React/Redux/GraphQL/React-Native snippets
-# chrome:
+## chrome:
 Redux DevTools
 Pesticide for Chrome
 
-## backend:
-# cmd:
+# backend:
+## cmd:
+```
 npm init -y
 npm i express body-parser cors dotenv helmet morgan mongoose mongoose-currency
 npm i -D nodemon
-
-## other references:
+```
+# other references:
 https://fonts.google.com/specimen/Inter?query=inter
 recharts -> for charts
 https://recharts.org/en-US/examples/SimpleAreaChart
 
-## tech stack:
+# tech stack:
 material ui -> graphics
 ts -> language
 vite -> for starter app
@@ -48,4 +50,3 @@ express.js -> backend framework
 mongoose -> for database
 
 regression js fro prediction
-
