@@ -44,7 +44,7 @@ npm i -D nodemon
 - react router -> for navigation
 
 
-back end:
+# back end:
 - node.js -> as runtime  
 - express.js -> backend framework  
 - mongoose -> for database  
