@@ -34,6 +34,7 @@ npm i -D nodemon
 - https://recharts.org/en-US/examples/SimpleAreaChart
 
 # tech stack:
+## frontend
 - material ui -> graphics  
 - ts -> language  
 - vite -> for starter app  
@@ -43,8 +44,7 @@ npm i -D nodemon
 - heroicons -> for icons  
 - react router -> for navigation
 
-
-# backend:
+## backend:
 - node.js -> as runtime  
 - express.js -> backend framework  
 - mongoose -> for database  
