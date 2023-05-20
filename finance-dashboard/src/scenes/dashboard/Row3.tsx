@@ -14,7 +14,6 @@ const Row3 = () => {
     const { data: kpiData } = useGetKpisQuery();
     const { data: productData } = useGetProductsQuery();
     const { data: transactionData } = useGetTransactionsQuery();
-    console.log("transactionData", transactionData);
 
     const pieChartData = useMemo(() => {
         if (kpiData) {
@@ -190,7 +189,7 @@ const Row3 = () => {
                 <Typography margin="0.5rem 1rem" variant="h5">
                     Orci aliquam enim vel diam. Venenatis euismod id donec mus lorem etiam
                     ullamcorper odio sed. Ipsum non sed gravida etiam urna egestas molestie volutpat
-                    et. Malesuada quis pretium aliquet lacinia ornare sed.
+                    et.
                 </Typography>
             </DashboardBox>
         </>

@@ -12,6 +12,7 @@ npm i -D eslint eslint-config-react-app
 npm i -D @types/node
 npm run dev
 npm i recharts
+npm i regression
 ```
 # extentsions:
 ## vs-code:
